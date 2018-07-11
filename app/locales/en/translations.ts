@@ -563,6 +563,10 @@ export default {
         and_x_more: '{{x}} more',
     },
     collections: {
+        navbar: {
+            brand: '{{name}} Collections',
+            add_item: 'Add to Collection',
+        },
         index: {
             title: 'Collections',
             services_heading: 'Collection Services',
@@ -591,6 +595,10 @@ export default {
         submit: {
             title: 'Submit',
         },
+    },
+    branded_navbar: {
+        my_osf_projects: 'My OSF Projects',
+        on_the_osf: 'On the OSF:',
     },
     analytics: {
         pageTitle: '{{nodeTitle}} Analytics',
